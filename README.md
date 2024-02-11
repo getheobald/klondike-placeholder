@@ -1,3 +1,3 @@
-# klondike-placeholder
+# Klondike
 
 Test
